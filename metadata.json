@@ -1,0 +1,6 @@
+{
+  "name": "Mount Olive Academy",
+  "description": "Comprehensive school management system for Mount Olive Academy, featuring student information, academic gradebook, attendance tracking, faculty directory, schedules, and tuition management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
